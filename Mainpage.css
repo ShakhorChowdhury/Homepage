@@ -14,7 +14,7 @@
 body{
   min-height: 100vh;
   font-family: RobotoSlab;
-  background-image: url("background.jpg");
+  background-image: url("Untitled-2.jpg");
   background-size: cover;
 }
 
@@ -72,28 +72,35 @@ input[type="checkbox"]{
 .hometext1{
   text-align: center;
   padding-top: 200px;
-  font-size: 4.5rem ;
+  font-size: 5.5rem ;
   font-family: RobotoSlab;
-  color: aqua;
+  color: rgb(48, 179, 255);
 }
 
 .hometext2{
   text-align: center;
-  font-size: 2 rem ;
+  font-size: 3rem ;
   font-family: RobotoSlab;
-  color: rgb(255, 255, 255);
+  color: rgb(40, 152, 226);
+}
+
+.hometext3{
+  text-align: center;
+  font-size: 2rem ;
+  font-family: RobotoSlab;
+  color: rgb(3, 137, 226);
 }
 
 .social{
   text-align: center;
   padding-top: 10px;
-  color: aqua;
+  color: rgb(251, 255, 255);
 }
 
 .social a{
   font-size: 35px;
   color: inherit;
-  border: 1px solid rgb(17, 243, 118);
+  border: 1px solid rgb(216, 85, 10);
   height: px;
   width: 50px;
   
